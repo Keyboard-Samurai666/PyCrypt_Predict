@@ -1,4 +1,6 @@
-# Cryptocurrency Price Prediction using Python---## Step 1: **Import the necessary libraries**
+# Cryptocurrency Price Prediction using Python
+---
+## Step 1: **Import the necessary libraries**
 
 - pandas
 
